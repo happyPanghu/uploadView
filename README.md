@@ -1,7 +1,7 @@
 # uploadView
 基于jquery的图片上传预览功能
 
-###实例
+## 实例
 ```
                 $("#up").uploadView({
                     uploadBox: '#bigBox',//设置上传框容器
